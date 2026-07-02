@@ -1,2 +1,2 @@
-# Git Course
+# Git Course - Master
 This line was added on the feature branch.
